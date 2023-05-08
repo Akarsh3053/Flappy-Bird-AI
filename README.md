@@ -10,8 +10,10 @@
 - Simple and Lightweight
 - Easy to run and clone
 - Seperate NEAT config file for tweaking
+
 # Screenshots
  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/393/239/datas/original.PNG">
+ 
 # Tech Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
